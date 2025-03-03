@@ -1,1 +1,1 @@
-print("We are learning github")
+print("We are on a blessed monday")
